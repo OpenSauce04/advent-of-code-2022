@@ -3,7 +3,7 @@ using System.IO;
 using System.Reflection;
 using System.Collections;
 
-namespace Day1
+namespace Day1Part2
 {
 	internal class Program
 	{
